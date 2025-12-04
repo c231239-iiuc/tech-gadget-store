@@ -1,0 +1,5 @@
+{
+  "name": "TechGadget Store",
+  "description": "A modern e-commerce React application featuring Firebase Authentication, dynamic routing, and API integration.",
+  "requestFramePermissions": []
+}
